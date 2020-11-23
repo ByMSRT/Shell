@@ -2,7 +2,7 @@
 
 ## Sommaire
 
-[Test](https://github.com/ByMSRT/Shell/blob/main/test.md)
+1. [Test](https://github.com/ByMSRT/Shell/blob/main/test.md)
 
 -----------------
 Test
