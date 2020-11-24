@@ -1,8 +1,9 @@
 # Mais qu'est ce que Shell ?
 
-Tout d'abord, le Shell est un intépréteur de commande qui permet de les exécuters, via 2 types d'interfaces. L'interface graphique, où la majorité des utilisateurs lambdas ont tendance à l'utiliser car elle est plus ergonomique.
+Tout d'abord, le Shell est un intépréteur de commande qui permet de les executers, via 2 types d'interfaces. L'interface graphique, où la majorité des utilisateurs lambdas ont tendance à l'utiliser car elle est plus ergonomique.
     
-Seulement, il y a un autre moyen de crée son fichier texte à partir de notre terminal sur MacOS et Linux ou alors Windows PowerShell sur bien évidemment Windows.
+Ainsi l'interface console, c'est un autre moyen de crée son fichier texte à partir de notre terminal sur MacOS et Linux ou alors sur Windows : PowerShell.
+
 
 ## Testons ?
 
@@ -11,4 +12,10 @@ Par exemple, la simple création d'un fichier texte, un simple clic droit, nouve
 
 (Explication via le terminal)
 // Insertions d'images //
-    
+
+### Que peut-on faire avec ?
+
+* L'interaction avec le système
+* L'exécution de commandes
+* Programmation pour créer des automatisations de tâches
+* Un script shell
