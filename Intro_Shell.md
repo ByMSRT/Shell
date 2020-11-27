@@ -3,7 +3,9 @@
 Tout d'abord, le Shell est un interpréteur de commandes donnés par l'utilisateur qui sera exécuté par notre système d'exploitation.
 
 > **OS = Système d'exploitation**
+
 > Il faut savoir que le Shell fait parti de notre OS, il permet de communiquer avec notre système d'exploitation via un langage spécifique sous un *environnement* appelé **console**. 
+
 > Suivant l'OS qu'on possède, le Shell peut-être directement accessible via le **Terminal** (**l'environnement console**) sur MacOS & Linux ou via une application sur Windows le **PowerShell**.
 
 Aujourd'hui, la majorité des utilisateurs lambdas ont tendance à utiliser **l'interface graphique**, c'est à dire naviguer avec sa souris sur notre bureau ou dans nos dossiers... L'ergonomie de l'interface graphique est très intuitive pour tous les types d'utilisateurs en proposant par exemple des icônes visuelles.
