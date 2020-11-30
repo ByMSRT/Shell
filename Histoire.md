@@ -25,3 +25,7 @@
 > L'université de Princeton est une université de recherche privée situé au New Jersey.
 
 > Le nom *zsh* vient d'un enseignant à l'université de Princeton appelé **Zhong Shao**.
+
+
+
+*[<- Sommaire](https://github.com/ByMSRT/Shell) / [-> CQFR](https://github.com/ByMSRT/Shell/blob/main/CQFR.md)*
