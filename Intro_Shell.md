@@ -17,11 +17,11 @@ L'interface console est un tout autre moyen de naviguer dans notre machine...
 
 Et si on essayait de crée un fichier texte dans un dossier.
 
-* Interface Graphique (MacOS):
+* Interface Graphique (MacOS) :
 Sur notre machine, on va ouvrir notre éditeur de texte, mettre notre contenu puis l'enregistrer dans le dossier qu'on veut. C'est très simple.
 // Insertions d'images //
 
-* Interface Console (Terminal MacOS):
+* Interface Console (Terminal MacOS) :
 Ouvrons le terminal, et on va .... (expliquer le déroulement)
 // Insertions d'images //
 
