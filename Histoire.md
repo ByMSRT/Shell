@@ -1,6 +1,6 @@
 # Histoire
 
-* Le premier shell (Thompson Shell) est apparu en 1971 écrit par Ken Thompson avec la première version d'Unix. Quelques années plus tard le Thompson Shell est remplacé par Bourne Shell en 1977 écrit par Stephen Bourne pour la nouvelle version 7 d'Unix.
+* Le premier shell (Thompson Shell) est apparu en 1971 écrit par Ken Thompson avec la première version d'Unix. Quelques années plus tard le Thompson Shell est remplacé par le Bourne Shell (sh) en 1977 écrit par Stephen Bourne pour la nouvelle version 7 d'Unix.
 
 * En 1978, un étudiant de *l'Université de Californie à Berkeley* appelé Bill Joy crée une nouvelle version du Shell, le **csh** (C Shell).
 
