@@ -17,13 +17,30 @@ L'interface console est un tout autre moyen de naviguer dans notre machine...
 
 Et si on essayait de crée un fichier texte dans un dossier.
 
-* Interface Graphique (MacOS) :
-Sur notre machine, on va ouvrir notre éditeur de texte, mettre notre contenu puis l'enregistrer dans le dossier qu'on veut. C'est très simple.
-// Insertions d'images //
-
 * Interface Console (Terminal MacOS) :
-Ouvrons le terminal, et on va .... (expliquer le déroulement)
-// Insertions d'images //
+
+**Etape 1 :** Ouverture du terminal
+![Console0](https://raw.githubusercontent.com/ByMSRT/Shell/main/Images/Console0.png)
+
+**Etape 2 :** Se diriger dans le dossier où l'on souhaite enregistrer notre fichier
+![Console1](https://raw.githubusercontent.com/ByMSRT/Shell/main/Images/Console1.png)
+![Console2](https://raw.githubusercontent.com/ByMSRT/Shell/main/Images/Console2.png)
+![Console3](https://raw.githubusercontent.com/ByMSRT/Shell/main/Images/Console3.png)
+**Etape 3 :** Accéder à l'éditeur de texte
+![Console4](https://raw.githubusercontent.com/ByMSRT/Shell/main/Images/Console4.png)
+![Console5](https://raw.githubusercontent.com/ByMSRT/Shell/main/Images/Console5.png)
+**Etape 4 :** Enregistrement de notre fichier texte
+![Console6](https://raw.githubusercontent.com/ByMSRT/Shell/main/Images/Console6.png)
+![Console7](https://raw.githubusercontent.com/ByMSRT/Shell/main/Images/Console7.png)
+
+-----------------
+
+* Interface Graphique (MacOS) :
+
+![Graph0](https://raw.githubusercontent.com/ByMSRT/Shell/main/Images/Graph0.png)
+![Graph1](https://raw.githubusercontent.com/ByMSRT/Shell/main/Images/Graph1.png)
+
+**L'interface graphique reste quant-à-elle plus simple & plus ergonomique, de plus on y gagne en rapidité...**
 
 > La façon d'éffectuer tout le processus est différent, mais nous obtenons le même résultat.
 
