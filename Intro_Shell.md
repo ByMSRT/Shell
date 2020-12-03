@@ -37,10 +37,12 @@ Et si on essayait de crée un fichier texte dans un dossier.
 
 * Interface Graphique (MacOS) :
 
+**Etape 1 :** Ouvrons un éditeur de texte
 ![Graph0](https://raw.githubusercontent.com/ByMSRT/Shell/main/Images/Graph0.png)
+**Etape 2 :** Enregistrons notre fichier texte
 ![Graph1](https://raw.githubusercontent.com/ByMSRT/Shell/main/Images/Graph1.png)
 
-**L'interface graphique reste quant-à-elle plus simple & plus ergonomique, de plus on y gagne en rapidité...**
+**Quand on fait une simple comparaison des étapes entre les 2 types d'interfaces, l'interface graphique reste certainement quant-à-elle la plus simple & la plus ergonomique, de plus on y gagne en rapidité...**
 
 > La façon d'éffectuer tout le processus est différent, mais nous obtenons le même résultat.
 
