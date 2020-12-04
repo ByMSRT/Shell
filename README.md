@@ -15,9 +15,4 @@ Voici une présentation sur le Shell, nous étudirons ..
     * [Les conditions](https://github.com/ByMSRT/Shell/blob/main/Conditions.md)
     * [Les boucles](https://github.com/ByMSRT/Shell/blob/main/Boucles.md)
 4. [Les Sources](https://github.com/ByMSRT/Shell/blob/main/source.md)
-
-"1- définition
-2 - les types de shell --> Antécédant
-3 - les variables
-4 - les conditions
-5 - les boucles"
+5. Les TP

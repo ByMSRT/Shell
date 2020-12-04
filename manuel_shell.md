@@ -1,9 +1,10 @@
 # Manuel de Shell
 
-Notre terminal est très bien pensé, en effet pour une commande où l'on veut connaître ses différentes fonctionnalités ou sur ce quelle agit, on va pouvoir utiliser la commande suivante : 
+Notre terminal est très bien pensé, en effet celui-ci intègre un manuel complet sur les différentes commandes & fonctionnalités du Shell, on utilisera alors la commande suivante :
 
     % man [suivi du nom de la commande]
 
+## Exemple :
 > Pour l'exemple, on utilisera "ls".
 
 **Etape 1 :** Ouverture du terminal 
@@ -26,5 +27,10 @@ Un petit aperçu du manuel de **"ls"**
 * Dans l'encadré rouge se situe : 
     * les différentes commandes.
 
-* Dans l'encadrés bleu se situe :
+* Dans l'encadré bleu se situe :
     * la description de la commande en question & l'action qui va se dérouler.
+
+> Cette documentation peut-être très utile en cas de doute sur l'action d'une commande car certaines peuvent agir sur notre le comportement de notre machine...
+
+
+*[<- Sommaire](https://github.com/ByMSRT/Shell) / [-> Quelques commandes du terminal](https://github.com/ByMSRT/Shell/blob/main/Quelques_commandes_du_terminal.md)*
