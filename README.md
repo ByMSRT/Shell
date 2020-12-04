@@ -13,7 +13,7 @@ Voici une présentation sur le Shell, nous étudirons ..
     * [Les variables](https://github.com/ByMSRT/Shell/blob/main/Variables.md)
     * [Les conditions](https://github.com/ByMSRT/Shell/blob/main/Conditions.md)
     * [Les boucles](https://github.com/ByMSRT/Shell/blob/main/Boucles.md)
-4. Les commandes (Lien externe)
+4. Les commandes Shell (Lien externe)
     * [MacOS](https://ss64.com/osx/)
     * [Windows CMD](https://ss64.com/nt/)
     * [PowerShell](https://ss64.com/ps/)
