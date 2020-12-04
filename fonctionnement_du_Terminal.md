@@ -33,7 +33,7 @@ Voici comment se présente le terminal sur MacOS :
 
 1. Permet de se positionner à la **racine du disque**.
 1. Permet de se positionner au répertoire **"users" (Utilisateurs)**.
-1. Permet de se positionner au répertoire de **l'utilisateurs Elouan**.
+1. Permet de se positionner au répertoire de **l'utilisateur Elouan**.
 1. Permet de se positionner dans le répertoire **"Desktop" (Bureau)**.
 > Par exemple, dans la quatrième commande, on notera que pour accéder au Bureau, il faudra passer par le répertoire Utilisateurs et l'utilisateurs en question. **(/Users/Elouan/Desktop)**.
 5. Permet de se positionner dans le **dossier Elouan**.
