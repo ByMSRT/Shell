@@ -42,3 +42,7 @@ Voici comment se présente le terminal sur MacOS :
 > Une autre façon d'accéder plus rapidement dans un dossier spécifique dont on connaît le chemin exact.
 8. Autre façon de se positionner dans le **dossier Elouan**.
 1. Permet de revenir dans le répertoire qui correspond à la **session de l'utilisateur**.
+
+
+
+*[<- Sommaire](https://github.com/ByMSRT/Shell) / [-> Manuel de Shell](https://github.com/ByMSRT/Shell/blob/main/manuel_shell.md)*
