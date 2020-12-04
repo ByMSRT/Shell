@@ -14,4 +14,9 @@ Voici une présentation sur le Shell, nous étudirons ..
     * [Les conditions](https://github.com/ByMSRT/Shell/blob/main/Conditions.md)
     * [Les boucles](https://github.com/ByMSRT/Shell/blob/main/Boucles.md)
 4. [Les Sources](https://github.com/ByMSRT/Shell/blob/main/source.md)
-5. Les TP
+5. [Les TP]()
+6. Les commandes (Lien externe)
+    * [MacOS](https://ss64.com/osx/)
+    * [Windows CMD](https://ss64.com/nt/)
+    * [PowerShell](https://ss64.com/ps/)
+    * [Linux](https://ss64.com/bash/)
