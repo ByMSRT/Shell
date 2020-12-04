@@ -9,7 +9,6 @@ Voici une présentation sur le Shell, nous étudirons ..
     * [CQFR](https://github.com/ByMSRT/Shell/blob/main/CQFR.md)
 3. Le Shell
     * [Fonctionnement du Terminal](https://github.com/ByMSRT/Shell/blob/main/fonctionnement_du_Terminal.md)
-    * [Se déplacer dans les différents répertoires](https://github.com/ByMSRT/Shell/blob/main/moove_in_terminal.md)
     * [Le manuel de Shell](https://github.com/ByMSRT/Shell/blob/main/manuel_shell.md)
     * [Quelques commandes du terminal](https://github.com/ByMSRT/Shell/blob/main/Quelques_commandes_du_terminal.md)
     * [Les variables](https://github.com/ByMSRT/Shell/blob/main/Variables.md)
