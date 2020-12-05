@@ -18,6 +18,11 @@ Voici une présentation sur le Shell, nous étudirons ..
     * [Windows CMD](https://ss64.com/nt/)
     * [PowerShell](https://ss64.com/ps/)
     * [Linux](https://ss64.com/bash/)
-5. [Les TP]()
+5. Les TP
+    * [1- Scripts de gestion des comptes utilisateurs](https://github.com/ByMSRT/Shell/blob/main/1_TP.md)
+    * [2- Exercice d'installation automatique d'un serveur web Apache]()
+    * [3- Créer un script permettant de réaliser des sauvegardes automatique de votre serveur web Apache]()
+    * [4- Créer un annuaire téléphonique]()
+    * [5- Créer un agenda]()
 4. [Les Sources](https://github.com/ByMSRT/Shell/blob/main/source.md)
 
