@@ -1,6 +1,10 @@
 # Le Shell
 
-Voici une présentation sur le Shell, nous étudirons ..
+Voici un résumé sur le Shell, vous y trouverez une brève présentation de celui-ci, son histoire & son fonctionnement en gloabalité avec quelques exemples...
+
+[C'est parti ?](https://github.com/ByMSRT/Shell/blob/main/Intro_Shell.md)
+
+-----------------
 
 ## Sommaire
 

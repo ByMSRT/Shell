@@ -20,3 +20,5 @@
 
 * https://fr.wikipedia.org/wiki/Z_Shell
 
+* https://www.commentcamarche.net/faq/5444-bash-les-arguments-parametres
+
