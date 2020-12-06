@@ -14,7 +14,7 @@ Cette évolution permet de reprendre la syntaxe de ce langage de programmation, 
 
 > Le Perl est un **langage de programmation** crée par Larry Wall en 1987. Il **s'inspire des structures de contrôle et d'impression du langage C & des scripts du types sed, awk** ...
 
-* Brian Fox instaure le **Bash** (Bourne-Again Shell) en 1988. Il a été écrit pour la *Free Softaware Foundation* pour le projet *GNU*. Il est ainsi compatible avec le **sh (Bourne Shell) et il se veut une implantation libre**.
+* Brian Fox instaure le **Bash** (Bourne-Again Shell) en 1988. Il a été écrit pour la *Free Software Foundation* pour le projet *GNU*. Il est ainsi compatible avec le **sh (Bourne Shell) et il se veut une implantation libre**.
 
 > La Free Software Foundation est une **organisation américaine à but non lucratif visant la promotion du logiciel libre et la défense des utilisateurs**.
 
