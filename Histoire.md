@@ -8,7 +8,7 @@
 
 >*L'appellation **C** fait référence au langage de programmation C inventé en 1970.* 
 
-* Cette évolution permet de reprendre la syntaxe de ce langage de programmation, par exemple **la réutilisation de l'historique des commandes**... Par la suite une version du csh un peu plus moderne apparait sous le nom de **tcsh** (Tenex C Shell).
+Cette évolution permet de reprendre la syntaxe de ce langage de programmation, par exemple **la réutilisation de l'historique des commandes**... Par la suite une version du csh un peu plus moderne apparait sous le nom de **tcsh** (Tenex C Shell).
 
 * Un informaticien américain nommé David Korn publie le Korn Shell (**ksh**) en 1983. Toujours une évolution en reprenant le tcsh et **en y ajoutant des fonctions de scripts avancées venant du langage Perl**.
 
