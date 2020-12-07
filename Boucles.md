@@ -2,7 +2,7 @@
 
 **Qu'est ce qu'une boucle ?**
 
-Une boucle est une structure de contrôle permettant d'exécuter des instructions de façon répétée sur la base d'une [condition](https://github.com/ByMSRT/Shell/blob/main/Conditions.md).
+C'est une structure de contrôle permettant d'exécuter des instructions de façon répétée sur la base d'une [condition](https://github.com/ByMSRT/Shell/blob/main/Conditions.md).
 
 Pour utiliser une boucle : 
 
@@ -11,7 +11,7 @@ Pour utiliser une boucle :
 
 ## Exemple
 
-Commençons par ouvrir notre terminal, puis c'est parti pour l'édition !
+Commençons par ouvrir notre terminal.
 
 ![Bou0](https://raw.githubusercontent.com/ByMSRT/Shell/main/Images/Bou0.png)
 

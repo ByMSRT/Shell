@@ -1,6 +1,6 @@
 # Fonctionnement du Terminal
 
-Le terminal à des fonctionnalités assez spécifiques... Il faut savoir dans un terminal, qu'il est impossible de se déplacer avec la souris, **on se déplace uniquement à l'aide des touches du clavier & des commandes**.
+Le terminal à des fonctionnalités assez spécifiques. Il faut savoir, qu'il est impossible de se déplacer avec la souris, **on se déplace uniquement à l'aide des touches du clavier & des commandes**.
 
 > Si on veut se déplacer dans la ligne de commandes qu'on a écrite, il faudra utiliser **les flèches directionnelles**.
 >> A savoir, les **flèches du haut & du bas** permettent tout simplement d'appeler les commandes précédemment utilisées pour les consulter ou les réutiliser.
@@ -35,7 +35,7 @@ Voici comment se présente le terminal sur MacOS :
 1. Permet de se positionner au répertoire **"users" (Utilisateurs)**.
 1. Permet de se positionner au répertoire de **l'utilisateur Elouan**.
 1. Permet de se positionner dans le répertoire **"Desktop" (Bureau)**.
-> Par exemple, dans la quatrième commande, on notera que pour accéder au Bureau, il faudra passer par le répertoire Utilisateurs et l'utilisateurs en question. **(/Users/Elouan/Desktop)**.
+> Par exemple, dans la quatrième commande, on notera pour accéder au Bureau, il faudra passer par le répertoire Utilisateurs et l'utilisateurs en question. **(/Users/Elouan/Desktop)**.
 5. Permet de se positionner dans le **dossier Elouan**.
 1. Permet de revenir en arrière (Ici sur le bureau).
 1. Permet de revenir en arrière (Ici dans le répertoire utilisateur Elouan).

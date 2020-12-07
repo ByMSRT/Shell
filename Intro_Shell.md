@@ -1,6 +1,6 @@
 # Mais qu'est ce que Shell ?
 
-Tout d'abord, le Shell est un interpréteur de commandes donnés par l'utilisateur qui sera exécuté par notre système d'exploitation.
+Tout d'abord, le Shell est un interpréteur de commandes données par l'utilisateur qui sera exécuté par notre système d'exploitation.
 
 > **OS = Système d'exploitation**
 
@@ -8,7 +8,7 @@ Tout d'abord, le Shell est un interpréteur de commandes donnés par l'utilisate
 
 > Suivant l'OS qu'on possède, le Shell peut-être directement accessible via le **Terminal** (**l'environnement console**) sur MacOS & Linux ou via une application sur Windows le **PowerShell**. (Les sytèmes d'exploitations de type Unix possèdent un **Shell**).
 
-Aujourd'hui, la majorité des utilisateurs lambdas ont tendance à utiliser **l'interface graphique**, c'est à dire naviguer avec sa souris sur notre bureau ou dans nos dossiers... L'ergonomie de l'interface graphique est très intuitive pour tous les types d'utilisateurs en proposant par exemple des icônes visuelles.
+Aujourd'hui, la majorité des utilisateurs lambdas ont tendance à utiliser **l'interface graphique**, c'est à dire naviguer avec leurs souris sur notre bureau ou dans nos dossiers... L'ergonomie de l'interface graphique est très intuitive pour tous les types d'utilisateurs en proposant par exemple des icônes visuelles.
 L'interface console est un tout autre moyen de naviguer dans notre machine... 
 > Dans le fond, la façon d'utilisation est un peu différente.
 
@@ -44,7 +44,7 @@ Et si on essayait de crée un fichier texte dans un dossier.
 
 **Quand on fait une simple comparaison des étapes entre les 2 types d'interfaces, l'interface graphique reste certainement quant-à-elle la plus simple & la plus ergonomique, de plus on y gagne en rapidité...**
 
-> La façon d'éffectuer tout le processus est différent, mais nous obtenons le même résultat.
+> La façon d'effectuer tout le processus est différent, mais nous obtenons le même résultat.
 
 ### Mais au final, que peut-on faire avec ?
 

@@ -22,3 +22,10 @@
 
 * https://www.commentcamarche.net/faq/5444-bash-les-arguments-parametres
 
+* https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi3i6jlsLvtAhWsxoUKHWSxDeEQFjAAegQIARAC&url=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FVariable_(informatique)&usg=AOvVaw3SrUMh9hYS7jT3qVvcknO8
+
+* https://pro-du-code.com/qu-est-ce-qu-une-variable/
+
+* https://openclassrooms.com/fr/courses/43538-reprenez-le-controle-a-laide-de-linux/43394-les-conditions
+
+* https://openclassrooms.com/fr/courses/43538-reprenez-le-controle-a-laide-de-linux/43464-les-boucles

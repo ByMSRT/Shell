@@ -1,6 +1,6 @@
 # Manuel de Shell
 
-Notre terminal est très bien pensé, en effet celui-ci intègre un manuel complet sur les différentes commandes & fonctionnalités du Shell, on utilisera alors la commande suivante :
+Notre terminal est très bien pensé. En effet celui-ci intègre un manuel complet sur les différentes commandes & fonctionnalités du Shell, on utilisera alors la commande suivante :
 
     % man [suivi du nom de la commande]
 
@@ -16,21 +16,21 @@ Notre terminal est très bien pensé, en effet celui-ci intègre un manuel compl
 Un petit aperçu du manuel de **"ls"**
 ![Man2](https://raw.githubusercontent.com/ByMSRT/Shell/main/Images/Man2.png)
 
-* Dans l'encadré vert se situe : 
+* Dans l'encadré vert : 
     * son nom simplifié
     * son nom complet.
 
-* Dans l'encadré orange se situe :
+* Dans l'encadré orange :
     * son utilisation de façon globale
     * les différentes commandes (entre les crochets).
 
-* Dans l'encadré rouge se situe : 
+* Dans l'encadré rouge : 
     * les différentes commandes.
 
-* Dans l'encadré bleu se situe :
+* Dans l'encadré bleu :
     * la description de la commande en question & l'action qui va se dérouler.
 
-> Cette documentation peut-être très utile en cas de doute sur l'action d'une commande car certaines peuvent agir sur notre le comportement de notre machine...
+> Cette documentation peut-être très utile en cas de doute sur l'action d'une commande, car certaines peuvent agir sur le comportement de notre machine...
 
 
 *[<- Sommaire](https://github.com/ByMSRT/Shell) / [-> Les variables](https://github.com/ByMSRT/Shell/blob/main/Variables.md)*

@@ -2,7 +2,7 @@
 
 **Qu'est ce qu'une condition ?**
 
-Une condition est une expression qui donne une réponse de ce type :
+C'est une expression qui donne une réponse de ce type :
 
 * VRAI (condition vérifiée)
 
@@ -15,14 +15,14 @@ Une condition peut s'exprimer avec :
         un "if" (Le début d'une condition - Signifie "Si")
         un "then" (Signifie "Alors")
         un "else" (Signifie "Sinon")
-        un "else if" (Autre condition - Signifie "Sinon si)
+        un "else if" (Autre condition - Signifie "Sinon si")
         un "fi" (La fin d'une condition)
 
 > Il peut tout à fait avoir dans une condition, plusieurs autres conditions.
 
 ## Exemple 
 
-Commençons par ouvrir notre terminal, puis c'est parti pour l'édition !
+Commençons par ouvrir notre terminal.
 
 ![Cond0](https://raw.githubusercontent.com/ByMSRT/Shell/main/Images/Cond0.png)
 ![Cond1](https://raw.githubusercontent.com/ByMSRT/Shell/main/Images/Cond1.png)
