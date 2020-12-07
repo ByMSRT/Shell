@@ -28,3 +28,6 @@ Commençons par ouvrir notre terminal, puis c'est parti pour l'édition !
 ![VAR0](https://raw.githubusercontent.com/ByMSRT/Shell/main/Images/VAR0.png)
 
 ![VAR1](https://raw.githubusercontent.com/ByMSRT/Shell/main/Images/VAR1.png)
+
+
+*[<- Sommaire](https://github.com/ByMSRT/Shell) / [-> Les conditions](https://github.com/ByMSRT/Shell/blob/main/Conditions.md)*
