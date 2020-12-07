@@ -8,7 +8,7 @@ Le terminal à des fonctionnalités assez spécifiques. Il faut savoir, qu'il es
 
 -----------------
 
-## Dans le terminal ..
+## Dans le terminal 
 
 Voici comment se présente le terminal sur MacOS :
 
