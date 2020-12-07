@@ -33,4 +33,4 @@ Un petit aperçu du manuel de **"ls"**
 > Cette documentation peut-être très utile en cas de doute sur l'action d'une commande car certaines peuvent agir sur notre le comportement de notre machine...
 
 
-*[<- Sommaire](https://github.com/ByMSRT/Shell) / [-> Les commandes Shell MacOS](https://ss64.com/osx/) / [-> Les commandes Shell Windows CMD](https://ss64.com/nt/) / [-> Les commandes Shell PowerShell](https://ss64.com/ps/) / [-> Les commandes Shell Linux](https://ss64.com/ps/)*
+*[<- Sommaire](https://github.com/ByMSRT/Shell) / [-> Les variables](https://github.com/ByMSRT/Shell/blob/main/Variables.md)*
