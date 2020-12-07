@@ -1,4 +1,4 @@
-# CQFR
+# Ce qu'il faut retenir !
 
 ![CQFR](https://raw.githubusercontent.com/ByMSRT/Shell/main/Images/CQFR_.png)
 
