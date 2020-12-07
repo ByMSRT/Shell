@@ -10,7 +10,7 @@ Voici un résumé sur le Shell, vous y trouverez une brève présentation de cel
 
 1. [Mais qu'est ce que Shell ?](https://github.com/ByMSRT/Shell/blob/main/Intro_Shell.md)
 2. [Histoire](https://github.com/ByMSRT/Shell/blob/main/Histoire.md)
-    * [CQFR](https://github.com/ByMSRT/Shell/blob/main/CQFR.md)
+    * [Ce qu'il faut retenir !](https://github.com/ByMSRT/Shell/blob/main/CQFR.md)
 3. Le Shell
     * [Fonctionnement du Terminal](https://github.com/ByMSRT/Shell/blob/main/fonctionnement_du_Terminal.md)
     * [Le manuel de Shell](https://github.com/ByMSRT/Shell/blob/main/manuel_shell.md)
