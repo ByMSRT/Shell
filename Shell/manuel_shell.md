@@ -33,4 +33,4 @@ Un petit aperçu du manuel de **"ls"**
 > Cette documentation peut-être très utile en cas de doute sur l'action d'une commande, car certaines peuvent agir sur le comportement de notre machine...
 
 
-*[<- Sommaire](https://github.com/ByMSRT/Shell) / [-> Les variables](https://github.com/ByMSRT/Shell/blob/main/Variables.md)*
+*[<- Sommaire](https://github.com/ByMSRT/Shell) / [-> Les variables](https://github.com/ByMSRT/Shell/blob/main/Shell/Variables.md)*

@@ -30,4 +30,4 @@ Commençons par ouvrir notre terminal.
 
 
 
-*[<- Sommaire](https://github.com/ByMSRT/Shell) / [-> Les boucles](https://github.com/ByMSRT/Shell/blob/main/Boucles.md)*
+*[<- Sommaire](https://github.com/ByMSRT/Shell) / [-> Les boucles](https://github.com/ByMSRT/Shell/blob/main/Shell/Boucles.md)*

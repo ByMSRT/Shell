@@ -45,4 +45,4 @@ Voici comment se présente le terminal sur MacOS :
 
 
 
-*[<- Sommaire](https://github.com/ByMSRT/Shell) / [-> Manuel de Shell](https://github.com/ByMSRT/Shell/blob/main/manuel_shell.md)*
+*[<- Sommaire](https://github.com/ByMSRT/Shell) / [-> Manuel de Shell](https://github.com/ByMSRT/Shell/blob/main/Shell/manuel_shell.md)*

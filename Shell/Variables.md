@@ -30,4 +30,4 @@ Commençons par ouvrir notre terminal.
 ![VAR1](https://raw.githubusercontent.com/ByMSRT/Shell/main/Images/VAR1.png)
 
 
-*[<- Sommaire](https://github.com/ByMSRT/Shell) / [-> Les conditions](https://github.com/ByMSRT/Shell/blob/main/Conditions.md)*
+*[<- Sommaire](https://github.com/ByMSRT/Shell) / [-> Les conditions](https://github.com/ByMSRT/Shell/blob/main/Shell/Conditions.md)*
