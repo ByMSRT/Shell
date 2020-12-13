@@ -1,6 +1,10 @@
 # Manuel de Shell
 
-Notre terminal est très bien pensé. En effet celui-ci intègre un manuel complet sur les différentes commandes & fonctionnalités du Shell, on utilisera alors la commande suivante :
+Notre terminal est très bien pensé.
+
+En effet celui-ci intègre un manuel complet sur les différentes commandes & fonctionnalités du Shell. 
+
+On utilisera alors la commande suivante :
 
     % man [suivi du nom de la commande]
 
