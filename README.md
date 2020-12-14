@@ -1,8 +1,6 @@
 # Le Shell
 
-Voici un résumé sur le Shell, vous y trouverez une brève présentation de celui-ci, son histoire & son fonctionnement en gloabalité avec quelques exemples...
-
-Sur ce github, vous trouverez un dossier [script](https://github.com/ByMSRT/Shell/tree/main/Scripts) qui contient différents programmes et un dossier où se trouvent mes [illustrations](https://github.com/ByMSRT/Shell/tree/main/Images) qui accompagnait les exemples.
+Voici un résumé sur le Shell, vous y trouverez une brève présentation de celui-ci, son histoire & son fonctionnement en gloabalité avec quelques exemples... Sur ce github, vous trouverez un dossier [script](https://github.com/ByMSRT/Shell/tree/main/Scripts) qui contient les différents programmes qui ont été présenté en exemple et un dossier où se trouvent mes [illustrations](https://github.com/ByMSRT/Shell/tree/main/Images) qui accompagnait les exemples.
 
 [C'est parti ?](https://github.com/ByMSRT/Shell/blob/main/Intro/Intro_Shell.md)
 
