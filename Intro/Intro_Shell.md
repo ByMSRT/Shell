@@ -44,7 +44,7 @@ Et si on essayait de crée un fichier texte dans un dossier.
 
 **Quand on fait une simple comparaison des étapes entre les 2 types d'interfaces, l'interface graphique reste certainement quant-à-elle la plus simple & la plus ergonomique, de plus on y gagne en rapidité...**
 
-> La façon d'effectuer tout le processus est différent, mais nous obtenons le même résultat.
+> La façon d'effectuer tout le processus est différente, cependant nous obtenons le même résultat.
 
 ### Mais au final, que peut-on faire avec ?
 
@@ -52,7 +52,7 @@ Et si on essayait de crée un fichier texte dans un dossier.
 * L'exécution de commandes
 * Programmation pour créer des automatisations de tâches
 * Un script shell
-* Création, édition, suppression de fichier ou de dossier
+* Créations, éditions, suppressions de fichiers ou de dossiers
 * Gestion de permissions
 * et bien d'autres...
 
