@@ -30,4 +30,7 @@ Commençons par ouvrir notre terminal.
 ![VAR1](https://raw.githubusercontent.com/ByMSRT/Shell/main/Images/VAR1.png)
 
 
+[➡️ Le script ⬅️](https://github.com/ByMSRT/Shell/blob/main/Scripts/variable.sh)
+
+
 *[<- Sommaire](https://github.com/ByMSRT/Shell) / [-> Les conditions](https://github.com/ByMSRT/Shell/blob/main/Shell/Conditions.md)*

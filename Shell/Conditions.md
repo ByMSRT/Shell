@@ -28,6 +28,8 @@ Commençons par ouvrir notre terminal.
 ![Cond1](https://raw.githubusercontent.com/ByMSRT/Shell/main/Images/Cond1.png)
 > On aurait pu mettre une autre condition du type : "sinon si l'argument est Elou alors on retourne : L'utilisateur est véfifié, sinon Erreur, le nom de l'utilisateur est incorrecte !".
 
+[➡️ Le script ⬅️](https://github.com/ByMSRT/Shell/blob/main/Scripts/condition.sh)
+
 
 
 *[<- Sommaire](https://github.com/ByMSRT/Shell) / [-> Les boucles](https://github.com/ByMSRT/Shell/blob/main/Shell/Boucles.md)*

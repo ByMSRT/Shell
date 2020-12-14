@@ -18,5 +18,7 @@ Commençons par ouvrir notre terminal.
 ![Bou1](https://raw.githubusercontent.com/ByMSRT/Shell/main/Images/Bou1.png)
 
 
+[➡️ Le script ⬅️](https://github.com/ByMSRT/Shell/blob/main/Scripts/boucle.sh)
+
 
 *[<- Sommaire](https://github.com/ByMSRT/Shell) / [-> Les commandes Shell MacOS](https://ss64.com/osx/) / [-> Les commandes Windows CMD](https://ss64.com/nt/) / [-> Les commandes PowerShell](https://ss64.com/ps/) / [-> Les commandes Shell Linux](https://ss64.com/bash/)*

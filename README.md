@@ -2,6 +2,8 @@
 
 Voici un résumé sur le Shell, vous y trouverez une brève présentation de celui-ci, son histoire & son fonctionnement en gloabalité avec quelques exemples...
 
+Sur ce github, vous trouverez un dossier [script](https://github.com/ByMSRT/Shell/tree/main/Scripts) qui contient différents programmes et un dossier où se trouvent mes [illustrations](https://github.com/ByMSRT/Shell/tree/main/Images) qui accompagnait les exemples.
+
 [C'est parti ?](https://github.com/ByMSRT/Shell/blob/main/Intro/Intro_Shell.md)
 
 -----------------
@@ -15,8 +17,11 @@ Voici un résumé sur le Shell, vous y trouverez une brève présentation de cel
     * [Fonctionnement du Terminal](https://github.com/ByMSRT/Shell/blob/main/Shell/fonctionnement_du_Terminal.md)
     * [Le manuel de Shell](https://github.com/ByMSRT/Shell/blob/main/Shell/manuel_shell.md)
     * [Les variables](https://github.com/ByMSRT/Shell/blob/main/Shell/Variables.md)
+        * [Script variable](https://github.com/ByMSRT/Shell/blob/main/Scripts/variable.sh)
     * [Les conditions](https://github.com/ByMSRT/Shell/blob/main/Shell/Conditions.md)
+        * [Script condition](https://github.com/ByMSRT/Shell/blob/main/Scripts/condition.sh)
     * [Les boucles](https://github.com/ByMSRT/Shell/blob/main/Shell/Boucles.md)
+        * [Script boucle](https://github.com/ByMSRT/Shell/blob/main/Scripts/boucle.sh)
 4. Les commandes Shell (Lien externe)
     * [MacOS](https://ss64.com/osx/)
     * [Windows CMD](https://ss64.com/nt/)
