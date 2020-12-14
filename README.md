@@ -39,4 +39,4 @@ Voici un résumé sur le Shell, vous y trouverez une brève présentation de cel
 
 # Mon avis
 
-Ce travail était plutôt intéressant, il m'a permis de m'entraîner sur de futurs travaux qui contiendra sûrement plus d'exigences... J'ai pris beaucoup de plaisir à utiliser le format markdown tout comme à concevoir ce cours, cela m'a permis d'en apprendre à un peu plus sur le Shell. En revanche, les TP scripts sont avérés plus compliqués que prévu, dont la plupart n'ont pas été commencé.
+Ce travail était plutôt intéressant, il m'a permis de m'entraîner sur de futurs travaux qui contiendra sûrement plus d'exigences... J'ai pris beaucoup de plaisir à utiliser le format markdown tout comme à concevoir ce cours, cela m'a permis d'en apprendre à un peu plus sur le Shell. En revanche, les TP scripts sont avérés plus compliqués que prévu, d'où la plupart n'ont pas été commencé.
