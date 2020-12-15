@@ -25,5 +25,57 @@ J'ai choisi de crée un menu qui permettra au lancement du script d'accéder à 
 
 Voici un aperçu du script : 
 
-![Tp1_0](https://github.com/ByMSRT/Shell/blob/main/Images/Tp1_1.png)
+![Tp1_1](https://github.com/ByMSRT/Shell/blob/main/Images/Tp1_1.png)
 
+
+Dans l'encadré rouge se trouvent :
+
+* Création de l'utilisateur
+        sudo dscl . -create /Users/NOM_UTILISATEUR
+
+* Création d'un chemin d'accès pour Shell
+        sudo dscl . -create /Users/NOM_UTILISATEUR UserShell /bin/zsh
+
+* Création du nom et prénom
+        sudo dscl . -create /Users/NOM_UTILISATEUR prenom "NOM_PRENOM_"
+
+* Attribution d'un ID
+        sudo dscl . -create /Users/NOM_UTILISATEUR UniqueID $identifiant
+
+* Attribution d'un groupe ID
+        sudo dscl . -create /Users/NOM_UTILISATEUR PrimaryGroupID 600
+
+* Création d'un dossier utilisateur dans le répertoire utilisateur
+        sudo dscl . -create /Users/NOM_UTILISATEUR NFSHomeDirectory /Users/NOM_UTILISATEUR
+
+* Création d'un mot de passe
+        sudo dscl . -passwd /Users/NOM_UTILISATEUR $MDP
+
+
+### La modification de l'utilisateur
+
+Malheusement, la modification ne fonctionne pas.
+
+### La suppression de l'utilisateur
+
+![Tp1_2](https://github.com/ByMSRT/Shell/blob/main/Images/Tp1_2.png)
+
+* Suppression de l'utilisateur 
+        sudo dscl . -delete /Users/NOM_UTILISATEUR
+
+### La visualisation des utilisateurs
+
+![Tp1_3](https://github.com/ByMSRT/Shell/blob/main/Images/Tp1_3.png)
+
+* Visualisation des utilisateurs
+        dscl . -list /Users | grep -v '_' | grep -v 'nobody' | grep -v 'root' | grep -v 'daemon'
+
+### Recherche d'un utilisateur
+
+![Tp1_4](https://github.com/ByMSRT/Shell/blob/main/Images/Tp1_4.png)
+
+* Rechercher un utilisateur
+        dscl . -list /Users UniqueID | grep RECHERCHE_UTILISATEUR
+        dscl . -list /Users RealName | grep RECHERCHE_UTILISATEUR
+        dscl . -list /Users PrimaryGroupID | grep RECHERCHE_UTILISATEUR
+        dscl . -list /Users NFSHomeDirectory | grep RECHERCHE_UTILISATEUR
