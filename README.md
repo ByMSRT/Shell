@@ -5,6 +5,17 @@ Voici un résumé sur le Shell, vous y trouverez une brève présentation de cel
 [C'est parti ?](https://github.com/ByMSRT/Shell/blob/main/Intro/Intro_Shell.md)
 
 -----------------
+## Légende :
+
+🔴 : Lien externe
+
+🟠 : Non complet
+
+❌ : Pas commencé
+
+✅ : Finis
+
+-----------------
 
 ## Sommaire
 
@@ -21,16 +32,16 @@ Voici un résumé sur le Shell, vous y trouverez une brève présentation de cel
     * [Les boucles](https://github.com/ByMSRT/Shell/blob/main/Shell/Boucles.md)
         * [Script boucle](https://github.com/ByMSRT/Shell/blob/main/Scripts/boucle.sh)
 4. Les commandes Shell (Lien externe)
-    * [MacOS](https://ss64.com/osx/)
-    * [Windows CMD](https://ss64.com/nt/)
-    * [PowerShell](https://ss64.com/ps/)
-    * [Linux](https://ss64.com/bash/)
+    * [🔴 MacOS](https://ss64.com/osx/)
+    * [🔴 Windows CMD](https://ss64.com/nt/)
+    * [🔴 PowerShell](https://ss64.com/ps/)
+    * [🔴 Linux](https://ss64.com/bash/)
 5. Les TP
-    * [1- Scripts de gestion des comptes utilisateurs](https://github.com/ByMSRT/Shell/blob/main/TP/1_TP.md)
-    * [2- Exercice d'installation automatique d'un serveur web Apache]()
-    * [3- Créer un script permettant de réaliser des sauvegardes automatique de votre serveur web Apache]()
-    * [4- Créer un annuaire téléphonique](https://github.com/ByMSRT/Shell/blob/main/TP/4_TP.md)
-    * [5- Créer un agenda]()
+    * [🟠 1- Scripts de gestion des comptes utilisateurs](https://github.com/ByMSRT/Shell/blob/main/TP/1_TP.md)
+    * [❌ 2- Exercice d'installation automatique d'un serveur web Apache]()
+    * [❌ 3- Créer un script permettant de réaliser des sauvegardes automatique de votre serveur web Apache]()
+    * [✅ 4- Créer un annuaire téléphonique](https://github.com/ByMSRT/Shell/blob/main/TP/4_TP.md)
+    * [❌ 5- Créer un agenda]()
 4. [Les Sources](https://github.com/ByMSRT/Shell/blob/main/Source/source.md)
 
 
@@ -39,4 +50,4 @@ Voici un résumé sur le Shell, vous y trouverez une brève présentation de cel
 
 # Mon avis
 
-Ce travail était plutôt intéressant, il m'a permis de m'entraîner sur de futurs travaux qui contiendra sûrement plus d'exigences... J'ai pris beaucoup de plaisir à utiliser le format markdown tout comme à concevoir ce cours, cela m'a permis d'en apprendre à un peu plus sur le Shell. En revanche, les TP scripts sont avérés plus compliqués que prévu, d'où la plupart n'ont pas été commencé.
+Ce travail était plutôt intéressant, il m'a permis de m'entraîner sur de futurs travaux qui contiendra sûrement plus d'exigences... J'ai pris beaucoup de plaisir à utiliser le format markdown tout comme à concevoir ce cours, cela m'a permis d'en apprendre à un peu plus sur le Shell. En revanche, les TP scripts sont avérés plus compliqués que prévu.
