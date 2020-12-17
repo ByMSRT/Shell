@@ -89,3 +89,7 @@ Malheusement, la modification ne fonctionne pas.
         dscl . -list /Users RealName | grep RECHERCHE_UTILISATEUR
         dscl . -list /Users PrimaryGroupID | grep RECHERCHE_UTILISATEUR
         dscl . -list /Users NFSHomeDirectory | grep RECHERCHE_UTILISATEUR
+
+
+
+*[<- Sommaire](https://github.com/ByMSRT/Shell) / [-> TP_04](https://github.com/ByMSRT/Shell/blob/main/TP/4_TP.md)*
