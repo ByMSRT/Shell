@@ -9,9 +9,9 @@ Voici un résumé sur le Shell, vous y trouverez une brève présentation de cel
 
 🔴 : Lien externe
 
-🟠 : Incomplet
-
 ❌ : Pas commencé
+
+🟠 : Incomplet
 
 ✅ : Finis
 
